@@ -8,6 +8,8 @@
 2. Activate the developer mode under your extensions settings to be able to load the extension.
 ![load-in-edge](images/load-in-edge.jpg)
 
+> https://docs.microsoft.com/en-us/microsoft-edge/extensions-chromium/getting-started/extension-sideloading
+
 ### Firefox
 1. Go to `about:config` (enter it into address bar).
 2. Set `xpinstall.signatures.required` to `false`.
