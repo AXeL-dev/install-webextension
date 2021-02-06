@@ -6,7 +6,7 @@
 ### Edge
 1. Unzip the downloaded file.
 2. Activate the developer mode under your extensions settings to be able to load the extension.
-![load-in-edge](images/load-in-edge.jpg)
+![load-in-edge](images/load-in-edge.png)
 
 > https://docs.microsoft.com/en-us/microsoft-edge/extensions-chromium/getting-started/extension-sideloading
 
