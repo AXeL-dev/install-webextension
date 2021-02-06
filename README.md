@@ -15,3 +15,4 @@
 2. Set `xpinstall.signatures.required` to `false`.
 3. Go to `about:addons`.
 4. Drag & drop the extension zip file or click on the ![cog](images/cog.png) & choose install add-on from file.
+![install-in-firefox](images/install-in-firefox.png)
