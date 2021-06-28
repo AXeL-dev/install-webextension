@@ -1,11 +1,13 @@
 ### Chrome
 1. Unzip the downloaded file.
 2. Activate the developer mode under your extensions settings to be able to load the extension.
+3. Load the extracted extension folder or the `manifest.json` file.
 ![load-in-chrome](images/load-in-chrome.gif)
 
 ### Edge
 1. Unzip the downloaded file.
 2. Activate the developer mode under your extensions settings to be able to load the extension.
+3. Load the extracted extension folder or the `manifest.json` file.
 ![load-in-edge](images/load-in-edge.png)
 
 > https://docs.microsoft.com/en-us/microsoft-edge/extensions-chromium/getting-started/extension-sideloading
